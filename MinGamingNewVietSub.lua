@@ -2548,7 +2548,7 @@ local IQ = Window:MakeTab({
 })
 
 local S = Window:MakeTab({
-    Name = "chri số",
+    Name = "chỉ số",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
