@@ -2521,7 +2521,7 @@ end)
 ---
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Min Gaming Hub", HidePremium = false, IntroText = "MinGaming Library", SaveConfig = true, ConfigFolder = "Min Gaming Hub"})
+local Window = OrionLib:MakeWindow({Name = "Phạm Thế Hiển", HidePremium = false, IntroText = "Hiển Phạm Library", SaveConfig = true, ConfigFolder = "Phạm Thế Hiển"})
 ----------Tab-----------------------
 local W = Window:MakeTab({
     Name = "Thông Tin",
